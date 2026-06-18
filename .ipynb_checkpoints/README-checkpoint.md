@@ -36,6 +36,8 @@ This notebook performs:
 * Feature Engineering
 * Generation of the final processed dataset used for analysis
 
+The folder also contains the data processing report.
+
 ### 3. Data Analysis
 
 Contains the notebook:
