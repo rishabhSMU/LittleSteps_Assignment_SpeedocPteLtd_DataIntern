@@ -1,0 +1,9 @@
+keyword_indicator,visits_with_keyword,visits_without_keyword,avg_duration_with_keyword,avg_duration_without_keyword,difference_minutes
+note_mentions_wound_care,195,683,70.57,64.93,5.65
+note_mentions_stable_or_improving,361,517,67.5,65.26,2.24
+note_mentions_urgent,158,720,67.73,65.84,1.9
+note_mentions_weakness_or_dizziness,333,545,67.24,65.53,1.71
+note_mentions_mobility_support,86,792,66.94,66.1,0.84
+note_mentions_medication,156,722,66.26,66.16,0.1
+note_mentions_follow_up,561,317,65.49,67.4,-1.91
+note_mentions_pain,96,782,60.22,66.91,-6.69

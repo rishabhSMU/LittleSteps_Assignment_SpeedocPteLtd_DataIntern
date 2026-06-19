@@ -50,8 +50,17 @@ This notebook performs:
 * Operational performance analysis
 * Data visualisation
 * Business insight generation and recommendations
+* plots and analysis_table folders generation
 
-The folder also contains the final report summarising the key findings and recommendations.
+The folder also contains the final report summarising the key findings and recommendations and two additional folders for analysis:
+
+#### 3.1 plots
+
+This folder stores all visualisations generated during the execution of the analysis notebook. Examples include visit duration distributions, service-type comparisons, location-based analyses, nurse travel duration charts, and nurse-note insights. The folder is automatically created when the DataAnalysis_LittleSteps.ipynb notebook is executed and does not need to be downloaded separately.
+
+#### 3.2 analysis_tables
+
+This folder stores summary tables generated during the analysis phase in CSV format. These tables contain aggregated metrics such as service-level summaries, location-level summaries, nurse travel statistics, and keyword impact analyses. The folder is automatically created when the DataAnalysis_LittleSteps.ipynb notebook is executed and does not need to be downloaded separately.
 
 ---
 
@@ -71,6 +80,16 @@ Install all required Python libraries before running the notebooks. If a require
 ```python
 !pip install library_name
 ```
+
+### Note on Auto-Generated Files
+
+The `plots` and `analysis_tables` folders are generated automatically when the DataAnalysis_LittleSteps.ipynb notebook is executed. Therefore, these folders do not need to be downloaded or manually created when setting up the project on a local machine.
+
+Upon successful execution of the analysis notebook:
+- All visualisations will be saved automatically in the `plots` folder.
+- All summary and analytical tables will be exported automatically to the `analysis_tables` folder.
+
+Users only need to ensure that the required datasets and notebook files are present in the repository structure.
 
 ---
 

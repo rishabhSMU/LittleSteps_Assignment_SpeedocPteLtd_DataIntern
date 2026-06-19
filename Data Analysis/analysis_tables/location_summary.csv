@@ -1,0 +1,5 @@
+visit_location,total_visits,avg_visit_duration,median_visit_duration,std_visit_duration,avg_valid_travel_duration
+North,228,71.45,73.58,42.47,160.78
+South,209,67.74,66.0,38.92,100.11
+East,212,64.79,64.03,36.7,111.85
+West,229,60.79,54.0,38.26,124.96

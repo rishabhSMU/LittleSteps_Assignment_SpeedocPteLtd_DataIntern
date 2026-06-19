@@ -1,0 +1,5 @@
+service_type,total_visits,avg_visit_duration,median_visit_duration,avg_valid_travel_duration,median_valid_travel_duration,valid_travel_records
+Wound Care,220,69.17,67.55,117.8,167.13,3
+Medication Administration,236,68.36,64.03,124.65,129.34,10
+Physical Therapy,213,65.2,65.07,120.31,127.93,8
+General Check-up,209,61.56,57.0,119.09,116.08,8

@@ -1,0 +1,5 @@
+note_outcome_category,total_visits,avg_visit_duration,median_visit_duration,avg_valid_travel_duration
+Stable / Improving,229,69.0,62.0,156.35
+Urgent / Critical Attention,158,67.73,69.15,105.03
+Follow-up / Review Required,403,64.61,61.0,97.75
+No Notes Provided,88,63.24,62.1,115.88
